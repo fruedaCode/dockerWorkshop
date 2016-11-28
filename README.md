@@ -1,4 +1,4 @@
-# dockerWorkshop
+# DockerWorkshop
 ##Docker workshop at URV
 [Presentación](https://docs.google.com/presentation/d/1ewcUKvVnoAAu96rldC1jjqwUmvf9Js48FIFAQCOFxY0/edit?usp=sharing)
 
