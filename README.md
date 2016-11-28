@@ -1,10 +1,18 @@
 # dockerWorkshop
-###Docker workshop at URV
+##Docker workshop at URV
+[Presentación](https://docs.google.com/presentation/d/1ewcUKvVnoAAu96rldC1jjqwUmvf9Js48FIFAQCOFxY0/edit?usp=sharing)
 
-###Prerequisites
-[Docker engine](https://docs.docker.com/engine/installation/linux/ubuntulinux/)
+## Prerequisites
+### Linux
+[Docker engine for ubuntu](https://docs.docker.com/engine/installation/linux/ubuntulinux/)
+
+### Windows 10
+Hyper-v
+[Docker engine for windows](https://docs.docker.com/engine/installation/windows/)
 
 
+
+## Workshop
 ```sh
 $ git clone https://github.com/fruedaCode/dockerWorkshop
 $ cd dockerWorkshop
