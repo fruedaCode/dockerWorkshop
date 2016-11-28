@@ -7,7 +7,7 @@
 [Docker engine for ubuntu](https://docs.docker.com/engine/installation/linux/ubuntulinux/)
 
 ### Windows 10
-Hyper-v
+Hyper-v + 
 [Docker engine for windows](https://docs.docker.com/engine/installation/windows/)
 
 
