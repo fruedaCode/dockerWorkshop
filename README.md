@@ -20,3 +20,9 @@ $ docker build -t nodeapp .
 $ docker run -d -p 8080:8080 --name nodeapp nodeapp
 ```
 
+
+##Monitorización contenedores
+```sh
+$ docker stats $(docker ps|grep -v "NAMES"|awk '{ print $NF }'|tr "\n" " ")
+```
+
